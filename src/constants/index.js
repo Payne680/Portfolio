@@ -54,7 +54,7 @@ const services = [
     icon: backend,
   },
   {
-    title: 'UI/UX Design',
+    title: 'Mobile Developer',
     icon: ux,
   },
   {
