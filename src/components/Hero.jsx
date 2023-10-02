@@ -52,7 +52,7 @@ const Hero = () => {
             </h1>
             <p className={`${styles.heroSubText} mt-2 text-eerieBlack`}>
               Lorem ipsum dolor sit. <br className="sm:block hidden" />
-              consectetur adipisicing elit mobile-dev, front-end Developer.
+              consectetur adipisicing elit mobile-dev, -end Developer.
             </p>
           </div>
           <div
