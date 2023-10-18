@@ -45,7 +45,7 @@ const About = () => {
         sapiente ipsum dolorum dicta eaque cumque inventore molestias, beatae ea
         quaerat alias accusamus voluptas autem! Alias odit voluptates in totam
         vitae dignissimos minus eaque culpa unde tempore dolore aperiam
-        obcaecati voluptatum aliquam corrupti, suscipit accusamus! Odit unde
+        obcaecati voluptatum aliquam corrupti, suscipit accusamus!
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">
