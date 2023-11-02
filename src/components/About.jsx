@@ -44,7 +44,7 @@ const About = () => {
         Lorem ipsum dolor sit, amet consectetur adipisicing elit. Debitis
         sapiente ipsum dolorum dicta eaque cumque inventore molestias, beatae ea
         quaerat alias accusamus voluptas autem! Alias odit voluptates in totam
-        vitae dignissimos minus eaque culpa unde tempore dolore aperiam.
+        vitae dignissimos minus eaque culpa unde tempore dolore.
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">
