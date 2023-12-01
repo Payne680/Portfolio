@@ -124,32 +124,32 @@ const technologies = [
 
 const experiences = [
   {
-    title: 'Front-End Developer',
-    company_name: 'Cover Hunt',
+    title: 'Mobile Developer',
+    company_name: 'PettyCash Global',
     icon: coverhunt,
     iconBg: '#333333',
-    date: 'Aug 2021 - Feb 2022',
+    date: 'Aug 2023 - Oct 2023',
   },
   {
-    title: 'Mentor (Volunteer)',
-    company_name: 'Microverse',
+    title: 'ALX Software Engineer',
+    company_name: 'AlX Software Engineering',
     icon: microverse,
     iconBg: '#333333',
-    date: 'Mar 2022 - May 2022',
+    date: 'May 2023 - Present',
   },
+  // {
+  //   title: 'Junior Software Engineer',
+  //   company_name: 'Kelhel',
+  //   icon: kelhel,
+  //   iconBg: '#333333',
+  //   date: 'May 2022 - Oct 2022',
+  // },
   {
-    title: 'Junior Software Engineer',
-    company_name: 'Kelhel',
-    icon: kelhel,
-    iconBg: '#333333',
-    date: 'May 2022 - Oct 2022',
-  },
-  {
-    title: 'Full Stack Developer',
-    company_name: 'Diversity Cyber Council',
+    title: 'Back-End Developer',
+    company_name: 'Vmedia Consulting',
     icon: dcc,
     iconBg: '#333333',
-    date: 'Sep 2022 - Present',
+    date: 'Nov 2023 - Present',
   },
 ];
 

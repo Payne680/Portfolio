@@ -51,8 +51,10 @@ const Hero = () => {
               </span>
             </h1>
             <p className={`${styles.heroSubText} mt-2 text-eerieBlack`}>
-              Lorem ipsum dolor sit. <br className="sm:block hidden" />
-              consectetur adipisicing elit mobile-developer, Back-end Developer.
+              Passionate Full Stack Developer.{" "}
+              <br className="sm:block hidden" />
+              creating seamless digital solutions by merging front-end finesse
+              with back-end expertise.{" "}
             </p>
           </div>
           <div
