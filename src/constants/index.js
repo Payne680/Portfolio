@@ -25,7 +25,7 @@ import {
   // space,
   coverhunt,
   dcc,
-  kelhel,
+  // kelhel,
   microverse,
 } from '../assets';
 
