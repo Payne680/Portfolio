@@ -17,11 +17,11 @@ import {
   postgresql,
   rubyrails,
   graphql,
-  komikult,
-  leaderboard,
-  math,
-  movie,
-  nyeusi,
+  quiz,
+  movieDB,
+  shuffle,
+  bowling,
+  // nyeusi,
   // space,
   coverhunt,
   dcc,
@@ -156,8 +156,8 @@ const experiences = [
 const projects = [
   {
     id: 'project-1',
-    name: 'KomiKult',
-    description: 'A comic characters list app that displays Marvel characters.',
+    name: 'Quiz App',
+    description: 'Web app that presents to you a series of question to answer either using True or false.',
     tags: [
       {
         name: 'react',
@@ -172,15 +172,15 @@ const projects = [
         color: 'pink-text-gradient',
       },
     ],
-    image: komikult,
-    repo: 'https://github.com/shaqdeff/KomiKult',
-    demo: 'https://shaqdeff.github.io/KomiKult/',
+    image: quiz,
+    repo: 'https://github.com/Payne680/React-Quiz-webapp',
+    demo: 'https://react-quiiz-web-app.netlify.app/',
   },
   {
     id: 'project-2',
-    name: 'Leaderboard',
+    name: 'Movie DB',
     description:
-      'A leaderboard list app that displays scores submitted by different players.',
+      `A movie web app used to search for the latest movies and it's details.`,
     tags: [
       {
         name: 'react',
@@ -195,14 +195,14 @@ const projects = [
         color: 'pink-text-gradient',
       },
     ],
-    image: leaderboard,
-    repo: 'https://github.com/shaqdeff/Leaderboard',
-    demo: 'https://shaqdeff.github.io/Leaderboard/',
+    image: movieDB,
+    repo: 'https://github.com/Payne680/movieDB',
+    demo: 'https://moviedb-webapp.netlify.app/',
   },
   {
     id: 'project-3',
-    name: 'Math Magicians',
-    description: 'This is a single-page calculator app built with React',
+    name: 'Shuffle Images',
+    description: 'This is a single-page web app used to suffle images and it was built with React',
     tags: [
       {
         name: 'nextjs',
@@ -217,14 +217,14 @@ const projects = [
         color: 'pink-text-gradient',
       },
     ],
-    image: math,
-    repo: 'https://github.com/shaqdeff/Math-Magicians',
-    demo: 'https://inspiring-medovik-37d3b3.netlify.app/',
+    image: shuffle,
+    repo: 'https://github.com/Payne680/Shuffle-images-react.js',
+    demo: 'https://shuffle-images.netlify.app/',
   },
   {
     id: 'project-4',
-    name: 'Movie Metro',
-    description: `A single-page application that allows users to search for any movie or show's ratings and its details.`,
+    name: 'Bowling Game',
+    description: `A single-page application that allows users to play a bowling game by clicking on the check button.`,
     tags: [
       {
         name: 'nextjs',
@@ -239,33 +239,33 @@ const projects = [
         color: 'pink-text-gradient',
       },
     ],
-    image: movie,
-    repo: 'https://github.com/shaqdeff/Movie-Metro',
-    demo: 'https://movie-metro.netlify.app/',
+    image: bowling,
+    repo: 'https://github.com/Payne680/JS-Bowling-Game',
+    demo: 'https://jsbowling-game.netlify.app/',
   },
-  {
-    id: 'project-5',
-    name: 'Nyeusi Fest Site',
-    description:
-      'This is a demo concert website for a music festival called Nyeusi.',
-    tags: [
-      {
-        name: 'nextjs',
-        color: 'blue-text-gradient',
-      },
-      {
-        name: 'supabase',
-        color: 'green-text-gradient',
-      },
-      {
-        name: 'css',
-        color: 'pink-text-gradient',
-      },
-    ],
-    image: nyeusi,
-    repo: 'https://github.com/shaqdeff/Nyeusi-Fest-Site',
-    demo: 'https://shaqdeff.github.io/Nyeusi-Fest-Site/',
-  },
+  // {
+  //   id: 'project-5',
+  //   name: 'Nyeusi Fest Site',
+  //   description:
+  //     'This is a demo concert website for a music festival called Nyeusi.',
+  //   tags: [
+  //     {
+  //       name: 'nextjs',
+  //       color: 'blue-text-gradient',
+  //     },
+  //     {
+  //       name: 'supabase',
+  //       color: 'green-text-gradient',
+  //     },
+  //     {
+  //       name: 'css',
+  //       color: 'pink-text-gradient',
+  //     },
+  //   ],
+  //   image: nyeusi,
+  //   repo: 'https://github.com/shaqdeff/Nyeusi-Fest-Site',
+  //   demo: 'https://shaqdeff.github.io/Nyeusi-Fest-Site/',
+  // },
 ];
 
 export { services, technologies, experiences, projects };
