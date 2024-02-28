@@ -174,7 +174,7 @@ const projects = [
     ],
     image: quiz,
     repo: 'https://github.com/Payne680/React-Quiz-webapp',
-    demo: 'https://react-quiiz-web-app.netlify.app/',
+    demo: 'https://react-quiz-web-app.netlify.app/',
   },
   {
     id: 'project-2',
